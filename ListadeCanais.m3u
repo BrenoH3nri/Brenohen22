@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Quem Quer Ser um Milionário?" tvg-logo="https://lh3.googleusercontent.com/EN0WqpJ9GDDk1yow8rY_ZSdVXJ9pmlhTO-jH135c4IJhly_UI3QVV_ReI9C_97uoDmST" group-title="Filme",Quem Quer Ser um Milionário?
-http://list.deeplist.nl/movie/jcantel01/cantel123/16708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/xvn-axn.jpg.pagespeed.ic.GrOaVzglos.jpg" group-title="Filme",AXN
+https://d2b8g5kuusn7xk.cloudfront.net/hls1/axn.m3u8
 #EXTINF:-1,A&E
 http://list.deeplist.nl/live/jcantel01/cantel123/1120.m3u8
 #EXTINF:-1,A&E FULL HD
